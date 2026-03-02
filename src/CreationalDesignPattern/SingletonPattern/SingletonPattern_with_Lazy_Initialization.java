@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 class Quaduple{
     private static Quaduple q;

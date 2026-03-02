@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 class Might{
     private static Might m;

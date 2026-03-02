@@ -1,4 +1,4 @@
-package FactoryPattern.EmployeePattern;
+package CreationalDesignPattern.FactoryPattern.EmployeePattern;
 
 public class EmployeePattern {
     public static Employee GetSalary(String s){

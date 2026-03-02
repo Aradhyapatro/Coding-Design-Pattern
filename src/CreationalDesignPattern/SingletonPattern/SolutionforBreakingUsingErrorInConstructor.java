@@ -1,7 +1,6 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 import java.lang.reflect.Constructor;
-import java.lang.reflect.InvocationTargetException;
 
 class Bhujia{
     private static Bhujia s;

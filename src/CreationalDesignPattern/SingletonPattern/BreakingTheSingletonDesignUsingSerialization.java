@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 import java.io.*;
 

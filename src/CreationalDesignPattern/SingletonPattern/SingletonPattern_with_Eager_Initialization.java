@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 class Mono{
     private static Mono m = new Mono();

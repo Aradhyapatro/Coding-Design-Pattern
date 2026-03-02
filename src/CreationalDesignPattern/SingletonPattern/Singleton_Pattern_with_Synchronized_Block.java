@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 class Power{
     private static Power p;

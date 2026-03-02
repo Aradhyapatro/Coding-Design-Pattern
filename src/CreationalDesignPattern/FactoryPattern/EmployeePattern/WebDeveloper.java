@@ -1,4 +1,4 @@
-package FactoryPattern.EmployeePattern;
+package CreationalDesignPattern.FactoryPattern.EmployeePattern;
 
 public class WebDeveloper implements Employee{
     @Override

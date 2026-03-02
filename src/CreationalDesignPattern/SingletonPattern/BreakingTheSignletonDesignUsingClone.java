@@ -1,4 +1,4 @@
-package SingletonPattern;
+package CreationalDesignPattern.SingletonPattern;
 
 public class BreakingTheSignletonDesignUsingClone {
     public static void main(String[] args) {
