@@ -8,7 +8,7 @@ public class BreakingTheSignletonDesignUsingClone {
         System.out.println(p.hashCode());
         System.out.println(pp.hashCode());
 
-        /* different cause shallow coping override the default implementation to
+        /* different cause deep coping override the default implementation to
         * to resolve the issue.
         * */
     }

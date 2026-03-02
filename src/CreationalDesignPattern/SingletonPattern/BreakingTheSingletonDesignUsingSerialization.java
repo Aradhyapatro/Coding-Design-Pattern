@@ -15,6 +15,6 @@ public class BreakingTheSingletonDesignUsingSerialization {
         Pasta p=(Pasta) res.readObject();
         System.out.println(p.hashCode());
 
-        // Serilization must be doing shallow copy solution implements readResolve Method
+        // Serilization must be doing deep copy, solution implements readResolve Method
     }
 }
