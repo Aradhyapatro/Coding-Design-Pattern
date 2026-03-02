@@ -1,4 +1,4 @@
-package FactoryPattern;
+package FactoryPattern.EmployeePattern;
 
 interface Employee {
     int getSalary();
